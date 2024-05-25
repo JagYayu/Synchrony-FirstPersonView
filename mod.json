@@ -1,0 +1,20 @@
+{
+	"namespace": "F3D",
+	"displayName": "First Person View",
+	"version": "0.4.2",
+	"synchronyVersion": "3.7.4",
+	"description": "First person view",
+	"author": "J‌a‌g‌Y‌a‌y‌u‏☣",
+	"dependencies": {},
+	"api": {"scriptPath":"F3D"},
+	"icon": "gfx/Icon.png",
+	"banner": "gfx/Banner.png",
+	"tags": [],
+	"name": "F3D_io_4007077",
+	"changelog": "",
+	"homepageURL": "https://mod.io/g/crypt/m/f3d",
+	"modioID": "4007077",
+	"modioUserID": 13661250,
+	"pendingVersion": "0.4.2",
+	"visibility": 2
+}
