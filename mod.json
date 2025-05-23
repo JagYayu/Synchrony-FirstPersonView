@@ -1,0 +1,20 @@
+{
+	"namespace": "F3D",
+	"displayName": "First Person View (WIP)",
+	"version": "0.10.0",
+	"synchronyVersion": "3.7.4",
+	"description": "Explore dungeons in first person perspective!",
+	"author": "JagYayu",
+	"dependencies": {},
+	"api": {"scriptPath":"F3D"},
+	"icon": "gfx/Icon.png",
+	"banner": "gfx/Banner.png",
+	"tags": [],
+	"name": "F3D_io_4007077",
+	"changelog": "",
+	"homepageURL": "https://mod.io/g/crypt/m/f3d",
+	"modioID": "4007077",
+	"modioUserID": 13661250,
+	"pendingVersion": "0.10.1",
+	"visibility": 0
+}

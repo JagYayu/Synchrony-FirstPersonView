@@ -1,0 +1,18 @@
+===============================×===============================
+Firepig绘制
+Particles for CharmedEnemies
+ObjectRenderer获取的visual支持crop和rotation
+完善Swipe渲染器，目前有很多问题
+完成四元数，用它给相机旋转做插值
+3D射线检测模块
+Ping功能及绘制
+TargetRingRenderer
+优化绘制函数(F3D/render/Draw.lua)，尽量不用TransformationMatrix
+兼容Sync
+兼容DynChar
+兼容CryptArena
+Skybox
+===============================√===============================
+测试3D空间音频是否有效 - 24/9/15
+ScreenShake.getAtPosition()应该在相机位置获取
+===============================?===============================
